@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>CCR AEM Project Content Package</comment>
+<entry key="createdBy">vhs</entry>
+<entry key="name">ccr-project.ui.apps</entry>
+<entry key="created">2017-02-28T16:24:47.692+0530</entry>
+<entry key="groupId">com.ccr</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">ccr-packages</entry>
+<entry key="description">Maven Multimodule project for CCR AEM Project.</entry>
+<entry key="artifactId">ccr-project.ui.apps</entry>
+<entry key="path">/etc/packages/ccr-packages/ccr-project.ui.apps.zip</entry>
+</properties>
